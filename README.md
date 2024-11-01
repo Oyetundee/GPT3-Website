@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9c101d81-7e1a-43f5-9f2c-b2cfc52cb19e)GPT-3 Website
+
 This is a frontend application built with React that showcases the capabilities of OpenAI's GPT-3 model. The site provides users with an interactive interface to explore GPT-3's language generation, including answering questions, generating text, and more.
 
 Table of Contents
