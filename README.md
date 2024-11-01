@@ -21,7 +21,7 @@ React: For building the user interface
 JavaScript/ES6: Language used for the frontend logic
 OpenAI API: For GPT-3 interactions
 CSS: For styling the application
-
+https://vercel.com/api/toolbar/link/gpt-3-website-nu.vercel.app?via=project-dashboard-alias-list&p=1&page=/
 ![Screenshot (13)](https://github.com/user-attachments/assets/fe34814d-7125-4a93-91d2-b4d738886a9e)
 
 
